@@ -1,6 +1,6 @@
 # Mini Laboratório para Treinar a Técnica de Escalada de Privilégio no Linux
 
-Este repositório contém um mini laboratório que tem como objetivo auxiliar no aprendizado e treinamento da técnica de escalada de privilégio em sistemas Linux. O laboratório fornece um ambiente controlado para explorar diferentes cenários e praticar habilidades de segurança.
+Este repositório contém um mini laboratório que tem como objetivo auxiliar no aprendizado e treinamento da técnica de escalada de privilégio em sistemas Linux. O laboratório fornece um ambiente controlado para explorar alguns cenários e praticar habilidades de segurança.
 
 ## Iniciando o Laboratório
 
