@@ -20,9 +20,6 @@ docker-compose exec edu bash
 
 Isso abrirá um shell interativo dentro do container do laboratório, permitindo que você execute comandos e realize as atividades práticas.
 
-## Let's Hack!
-Aproveite ao máximo o laboratório para explorar diferentes técnicas de escalada de privilégio. Experimente diferentes abordagens, analise vulnerabilidades e pratique suas habilidades de segurança. Lembre-se de que esse ambiente é seguro e controlado para fins educacionais.
-
 ## Autor
 
 Este repositório é mantido por [0c3x](https://www.linkedin.com/in/ceonodot/). Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato. Estou sempre aberto a contribuições e melhorias.
