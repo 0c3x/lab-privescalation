@@ -1,0 +1,8 @@
+version: '3'
+services:
+  edu:
+    build: ./ubuntu
+    volumes:
+      - ./more:/tmp
+    user: blamer
+    command: /bin/bash -c "while true; do sleep 1; done"
