@@ -4,16 +4,22 @@ Este repositório contém um mini laboratório que tem como objetivo auxiliar no
 
 ## Iniciando o Laboratório
 
+É importantante que tenha o Docker instalado em sua máquina, caso não tenha segue um tutorial: https://docs.docker.com/engine/install/ubuntu/
+
 Siga as etapas abaixo para iniciar o laboratório:
 
-1. Inicie o ambiente executando o seguinte comando:
+1. Faça o clone do repositório com o seguinte comando:
+
+git clone https://github.com/0c3x/lab-privescalation.git
+
+2. Acesse com o terminal a pasta com o arquivo docker-compose.yml e inicie o ambiente executando o seguinte comando:
 
 docker-compose up -d
 
 
 Esse comando iniciará os containers necessários para o laboratório.
 
-2. Acesse o ambiente interativo do laboratório:
+3. Acesse o ambiente interativo do laboratório:
 
 docker-compose exec edu bash
 
