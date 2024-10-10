@@ -14,20 +14,22 @@ git clone https://github.com/0c3x/lab-privescalation.git
 
 2. Acesse com o terminal a pasta com o arquivo docker-compose.yml e inicie o ambiente executando o seguinte comando:
 
+```
 docker-compose up -d
-
+```
 
 Esse comando iniciará os containers necessários para o laboratório.
 
 3. Acesse o ambiente interativo do laboratório:
 
+```
 docker-compose exec edu bash
-
+```
 
 Isso abrirá um shell interativo dentro do container do laboratório, permitindo que você execute comandos e realize as atividades práticas.
 
 ## Autor
 
-Este repositório é mantido por [0c3x](https://www.linkedin.com/in/ceonodot/). Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato. Estou sempre aberto a contribuições e melhorias.
+Este repositório é mantido por [0c3x]((https://www.linkedin.com/in/luan-carneiro-52128328a/). Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato. Estou sempre aberto a contribuições e melhorias.
 
 Happy hacking!
