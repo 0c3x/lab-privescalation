@@ -30,6 +30,6 @@ Isso abrirá um shell interativo dentro do container do laboratório, permitindo
 
 ## Autor
 
-Este repositório é mantido por [0c3x]((https://www.linkedin.com/in/luan-carneiro-52128328a/). Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato. Estou sempre aberto a contribuições e melhorias.
+Este repositório é mantido por [0c3x](https://www.linkedin.com/in/luan-carneiro-52128328a/). Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato. Estou sempre aberto a contribuições e melhorias.
 
 Happy hacking!
